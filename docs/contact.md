@@ -1,7 +1,7 @@
 
 # **Contact Us**
 
-:fontawesome-solid-clock: ** Opening Hours**: Monday to Friday: 9:00 am - 12:45 pm and 2:00 pm - 6:00 pm
+:fontawesome-solid-clock: **Opening Hours**: Monday to Friday: 9:00 am - 12:45 pm and 2:00 pm - 6:00 pm
 Saturdays, Sundays and Public Holidays: Closed
 
 :fontawesome-solid-map-location: **Address**: TAMC2024 Office, PQ 834, Mong Man Wai Building, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong

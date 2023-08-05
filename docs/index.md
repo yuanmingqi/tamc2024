@@ -1,66 +1,34 @@
 ---
+template: home.html
+title: Home
 hide:
-  - toc
+ - toc
 ---
 
-# **RLLTE: Long-Term Evolution Project of Reinforcement Learning**
+# **Overview**
 
+Theory and Applications of Models of Computation (TAMC) is a series of annual conferences that aims at bringing together a wide range of researchers with interests in computational theory and its applications. These conferences have a strong interdisciplinary character and are distinguished by an appreciation of mathematical depth and scientific approaches.
+ 
+Some of the most important theoretical aspects of a model of computation are its power, generality, simplicity, synthesizability, verifiability, and expressiveness. The TAMC series of conferences explore the algorithmic foundations, computational methods, and computing devices to meet the rapidly emerging challenges of complexity, scalability, sustainability, and interoperability, with wide-ranging impacts on virtually every aspect of human endeavor.
+ 
+The TAMC conference series was initiated in 2004 in Beijing, China. Subsequent TAMC conferences have been held in Kunming, China (2004), Beijing, China (July 2006), Shanghai, China (2007), Xi'an, China (2008), Changsha, China, (2009), Prague, Czech Republic (2010), Tokyo, Japan (2011), Beijing, China (2012), Hong Kong, China (2013), Chennai, India (2014), Singapore (2015), Bern, Switzerland (2016, 2017), Kitakyushu, Japan (2019), Changsha, China (2020), Tianjin, China (2022).
 
+In 2024, TAMC will return to Hong Kong as a fully offline conference. The conference will offer a platform for researchers interested in computational theory and applications to exchange ideas and present their work. The main themes of the conference are computability, algorithms, complexity, models of computation, and systems theory.
 
----
+We look forward to welcoming you to Hong Kong in Spring 2024!
 
-Inspired by the long-term evolution (LTE) standard project in telecommunications, aiming to provide development components for and standards for advancing RL research and applications. **RLLTE** is **not** designed to provide specific RL algorithms but a toolkit for producing algorithms.
+# **Important Dates**
 
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ShVdiHHyXFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
-An introduction to RLLTE.
-</div>
+- **Paper Submission Deadline**: November 23, 2023
+- **Notification of Acceptance**: December 31, 2023
+- **Final Camera Ready Version**: January 22, 2024
+- **Early Registration Deadline**: March 15, 2024
+- **Offline Conference**: April 20 - 22, 2024
 
-## **Why RLLTE?**
-- 🧬 Long-term evolution for providing latest algorithms and tricks;
-- 🏞️ Complete ecosystem for task design, model training, evaluation, and deployment (TensorRT, CANN, ...);
-- 🧱 Module-oriented design for complete decoupling of RL algorithms;
-- 🚀 Optimized workflow for full hardware acceleration;
-- ⚙️ Support custom environments and modules;
-- 🖥️ Support multiple computing devices like GPU and NPU;
-- 💾 Large number of reusable benchmarks (See [rllte-hub](https://hub.rllte.dev));
-- 👨‍✈️ Large language model-empowered copilot.
+# **Organization**
 
-## **A `PyTorch` for RL**
-RLLTE decouples RL algorithms into minimum primitives and provide standard modules for development. 
+<img src="./assets/images/polyu.svg" style="width: 400px">
+<img src="./assets/images/logo-ucas.png" style="width: 400px;">
 
-See [Fast Algorithm Development]() for detailed examples.
-<div align=left>
-<img src='./assets/images/structure.svg' style="width: 80%">
-</div>
-
-
-## **Project Evolution**
-The evolution of RLLTE comprises two aspects: modules and algorithms.
-
-## **Cite Us**
-If you use **RLLTE** in your research, please cite this project like this:
-``` tex
-@software{rllte,
-  author = {Mingqi Yuan, Zequn Zhang, Yang Xu, Shihao Luo, Bo Li, Xin Jin, and Wenjun Zeng},
-  title = {RLLTE: Long-Term Evolution Project of Reinforcement Learning},
-  url = {https://github.com/RLE-Foundation/rllte},
-  year = {2023},
-}
-```
-
-<!-- Hsuanwu evolves based on reinforcement learning algorithms and integrates latest tricks. The following figure demonstrates the main evolution roadmap of Hsuanwu:
-<div align=center>
-<img src='./assets/images/roadmap.svg'>
-</div>s -->
-
-<!-- Please cite the following paper if you use Hsuanwu in your work, thank you!
-```bibtex
-@article{yuan2023rllte,
-  title={Hsuanwu: Long-Term Evolution Project of Reinforcement Learning},
-  author={Yuan, Mingqi and Luo, Shihao and Zhang, Zequn and Yang, Xu and Jin, Xin and Li, Bo and Zeng, Wenjun},
-  journal={arXiv preprint arXiv:2311.15277},
-  year={2023}
-}
-``` -->
+# **Sponsor**
+<img src="./assets/images/springer-logo.svg" style="width: 400px;">

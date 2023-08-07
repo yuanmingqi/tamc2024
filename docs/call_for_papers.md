@@ -41,9 +41,9 @@ The 20th Annual Conference on Theory and Applications of Models of Computation (
 
 ## **Important Dates**
 
-- **Paper Submission Deadline**: November 23, 2023
-- **Notification of Acceptance**: December 31, 2023
-- **Final Camera Ready Version**: January 22, 2024
+- **Paper Submission Deadline**: November 30, 2023
+- **Notification of Acceptance**: January 20, 2024
+- **Final Camera Ready Version**: February 1, 2024
 - **Early Registration Deadline**: March 15, 2024
 - **Offline Conference**: April 20 - 22, 2024
 

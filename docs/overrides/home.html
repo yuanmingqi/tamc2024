@@ -3,6 +3,9 @@
 {% extends "main.html" %}
 {% block tabs %}
 {{ super() }}
+
+
+
 <style>
 
     .md-main {
@@ -233,11 +236,26 @@
         top: 10%;
         font-size: 2.5rem;
     }
+
+    .sub-title {
+        margin-bottom: 1rem;
+        color: #eee;
+        font-weight: 800;
+        text-align: center;
+        width: 100%;
+        position: absolute; 
+        z-index: 2;
+        top: 100%;
+        font-size: 0.8rem;
+    }
 </style>
 
 <div style="position:relative;">
     <img src="assets/images/hk.jpg" style="max-width: 100%;">
-    <div class="main-title">20th Annual Conference on <br> Theory and Applications of Models of Computation </div>
+    <div class="main-title">20th Annual Conference on <br> Theory and Applications of Models of Computation
+        <hr style="width: 20%; height: 0.1rem; border-width: 0; background-color: #eee;" /> 
+        <div class="sub-title"> Hong Kong, China, April 20 - 22, 2024 </div>
+    </div>
 </div>
 
 

@@ -19,9 +19,9 @@ We look forward to welcoming you to Hong Kong in May 2024!
 
 # **Important Dates**
 
-- **Paper Submission Deadline**: December 1st, 2023
-- **Notification of Acceptance**: January 25th, 2024
-- **Offline Conference**: May 13th - 15th, 2024
+- **Paper Submission Deadline**: December 8th, 2023 (Anywhere on Earth)
+- **Notification of Acceptance**: Early February, 2024
+- **Offline Conference**: May 13th – 15th, 2024
 
 <!-- - **Final Camera Ready Version**: February 1, 2024 -->
 <!-- - **Early Registration Deadline**: March 15, 2024 -->

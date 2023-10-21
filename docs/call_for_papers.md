@@ -1,35 +1,25 @@
 # **Call for Papers**
-The 18th Annual Conference on Theory and Applications of Models of Computation (TAMC 2024) will be held on April 20-22, 2024 in Hong Kong, China.TAMC 2024 aims at bringing together a wide range of researchers with interests in computational theory and applications. The main themes of the conference are computability, complexity, algorithms, models of computation and systems theory. **Submissions are invited in, but not limited to, the following topics**:
+The 18th Annual Conference on Theory and Applications of Models of Computation (TAMC 2024) will be held on May 13th – 15th, 2024 in Hong Kong, China.TAMC 2024 aims at bringing together a wide range of researchers with interests in computational theory and applications. The main themes of the conference are computability, complexity, algorithms, models of computation and systems theory. **Submissions are invited in (but not limited to) the following topics**:
 
--  	Algebraic Computation
--  	Algorithmic Coding and Number Theory
--  	Algorithmic Graph Theory and Combinatorics
--  	Algorithms and Data Structures
--  	Approximation Algorithms
--  	Automata Theory
--  	Computational Biology and Biological Computing
--  	Computational Complexity
--  	Computational Social Choice
--  	Cryptography
--  	Game Theory and Mechanism Design
--  	Logic
--  	Network Theory and Communication Networks
--  	Online Algorithms
--  	Optimization
--  	Parameterized Algorithms
--  	Programming and Verification
--  	Property Testing
--  	Quantum Computing
--  	Randomness and Pseudo-Randomness
--  	Streaming Algorithms
--  	Systems Theory (e.g. concurrent, timed, hybrid)
--  	VLSI Models of Computation
+- Computational complexity and algorithms
+- Models of computation
+- Automata theory and formal languages
+- Quantum computing
+- Algorithmic game theory
+- Cryptography and data security
+- Computational biology and bioinformatics
+- Parallel and distributed computing
+- Formal verification and program analysis
+- Computational geometry and graph theory
+- Logic and proof theory
+- Computational social choice
+- Computational economics
 
 ## **Important Dates**
 
-- **Paper Submission Deadline**: December 1st, 2023
-- **Notification of Acceptance**: January 25th, 2024
-- **Offline Conference**: May 13th - 15th, 2024
+- **Paper Submission Deadline**: December 8th, 2023 (Anywhere on Earth)
+- **Notification of Acceptance**: Early February, 2024
+- **Offline Conference**: May 13th – 15th, 2024
 
 <!-- - **Final Camera Ready Version**: February 1, 2024 -->
 <!-- - **Early Registration Deadline**: March 15, 2024 -->
@@ -37,9 +27,9 @@ The 18th Annual Conference on Theory and Applications of Models of Computation (
 ## **Submission Guidelines**
 The submission should contain scholarly exposition of ideas, techniques, and results, including the motivation and a clear comparison with related work. Submitted papers must describe work not previously published. They must not be submitted simultaneously to any other conference with refereed proceedings or to journals. We regard the following case as a simultaneous submission. Submission of drafts which contain the essentially same results from papers under review in other conferences or journals at the moment of the submission.
 
-Papers must be formatted using the LNCS style file without altering margins or the font point. The maximum length of the paper (including references, but excluding the optional appendix) is **12** pages. Proofs omitted due to space constraints must be placed in an appendix to be read by the program committee members at their discretion. Papers that deviate from these guidelines risk being rejected without consideration of their merits. Only electronic submission will be allowed via the Springer Online Conference System.
+Papers must be formatted using the LNCS style file without altering margins or the font point. The maximum length of the paper (including references, but excluding the optional appendix) is **12** pages. Proofs omitted due to space constraints must be placed in an appendix to be read by the program committee members at their discretion. Papers that deviate from these guidelines risk being rejected without consideration of their merits. Only electronic submission will be allowed via the EasyChair online conference system.
 
-Submission link: [Coming soon...]()
+Submission link: [EasyChair](https://easychair.org/conferences/?conf=tamc2024)
 
 ## **Publication**
 Coming soon...

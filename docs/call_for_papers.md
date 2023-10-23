@@ -18,7 +18,7 @@ The 18th Annual Conference on Theory and Applications of Models of Computation (
 ## **Important Dates**
 
 - **Paper Submission Deadline**: December 8th, 2023 (Anywhere on Earth)
-- **Notification of Acceptance**: Early February, 2024
+- **Notification of Acceptance**: February 1st, 2024
 - **Offline Conference**: May 13th – 15th, 2024
 
 <!-- - **Final Camera Ready Version**: February 1, 2024 -->
@@ -32,5 +32,4 @@ Papers must be formatted using the LNCS style file without altering margins or t
 Submission link: [EasyChair](https://easychair.org/conferences/?conf=tamc2024)
 
 ## **Publication**
-Coming soon...
-<!-- The proceedings of the Conference will be published by Springer-Verlag in the Lecture Notes in Computer Science (LNCS) series, and will be available for distribution at the conference. Selected high quality papers will be invited to one of three special issues of journals: **Theoretical Computer Science, Mathematical Structures in Computer Science**, and **SCIENCE CHINA Information Sciences**. The invited papers will go through a normal reviewing process. -->
+Selected high quality papers will be invited for submission to special issues of **Information and Computation, Theoretical Computer Science, Theory of Computing Systems, and Acta Informatica**, with the submission deadline being shortly after the conference. Submissions will undergo a standard peer review process according to the usual editorial standards of the journal.

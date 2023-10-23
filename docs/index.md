@@ -20,7 +20,7 @@ We look forward to welcoming you to Hong Kong in May 2024!
 # **Important Dates**
 
 - **Paper Submission Deadline**: December 8th, 2023 (Anywhere on Earth)
-- **Notification of Acceptance**: Early February, 2024
+- **Notification of Acceptance**: February 1st, 2024
 - **Offline Conference**: May 13th – 15th, 2024
 
 <!-- - **Final Camera Ready Version**: February 1, 2024 -->
@@ -29,7 +29,7 @@ We look forward to welcoming you to Hong Kong in May 2024!
 # **Organization**
 
 <img src="./assets/images/polyu.svg" style="width: 400px">
-<img src="./assets/images/logo-ucas.png" style="width: 400px;">
+<img src="./assets/images/logo-amss.png" style="height: 77.99px;">
 
 # **Sponsor**
 <!-- <img src="./assets/images/springer-logo.svg" style="width: 400px;"> -->

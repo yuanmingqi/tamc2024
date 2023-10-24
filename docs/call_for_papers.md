@@ -13,7 +13,7 @@ The 18th Annual Conference on Theory and Applications of Models of Computation (
 - Computational geometry and graph theory
 - Logic and proof theory
 - Computational social choice
-- Computational economics
+- Combinatorial optimization
 
 ## **Important Dates**
 
@@ -32,4 +32,4 @@ Papers must be formatted using the LNCS style file without altering margins or t
 Submission link: [EasyChair](https://easychair.org/conferences/?conf=tamc2024)
 
 ## **Publication**
-Selected high quality papers will be invited for submission to special issues of **Information and Computation, Theoretical Computer Science, Theory of Computing Systems, and Acta Informatica**, with the submission deadline being shortly after the conference. Submissions will undergo a standard peer review process according to the usual editorial standards of the journal.
+The proceedings of the conference will be published by Springer-Verlag in the Lecture Notes in Computer Science (LNCS) series, and will be available for distribution at the conference. Selected high quality papers will be invited for submission to special issues of **Information and Computation, Theoretical Computer Science, Theory of Computing Systems, and Acta Informatica**, with the submission deadline being shortly after the conference. Submissions will undergo a standard peer review process according to the usual editorial standards of the journal.

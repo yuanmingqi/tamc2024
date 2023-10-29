@@ -22,13 +22,16 @@
 - Michael Lampis, LAMSADE, *Universite Paris Dauphine, France*
 - Bo Li, *The Hong Kong Polytechnic University, China (co-Chair)*
 - Jian Li, *Tsinghua University, China*
+- Hsiang-Hsuan Liu, *Utrecht University, Netherlands*
 - Klaus Meer, *BTU Cottbus-Senftenberg, Germany*
 - Mitsunori Ogihara, *University of Miami, USA*
 - Jose Rolim, *University of Geneva, Switzerland*
 - Shikha Singh, *Williams College, USA*
 - Warut Suksompong, *National University of Singapore, Singapore*
 - Xiaoming Sun, *Chinese Academy of Sciences, China*
+- Seeun William Umboh, *The University of Melbourne, Australia*
 - Rohit Vaish, *Indian Institute of Technology (IIT) Delhi, India*
+- Chee Yap, *New York University, USA*
 - Yitong Yin, *Nanjing University, China*
 - Christos Zaroliagis, *University of Patras, Greece*
 

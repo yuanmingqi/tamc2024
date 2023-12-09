@@ -28,9 +28,10 @@ We look forward to welcoming you to Hong Kong in May 2024!
 
 # **Organization**
 
-<img src="./assets/images/polyu.svg" style="width: 400px">
+<img src="./assets/images/polyu.svg" style="width: 400px;margin-right:15px;">
 <img src="./assets/images/logo-amss.png" style="height: 77.99px;">
 
 # **Sponsor**
-<!-- <img src="./assets/images/springer-logo.svg" style="width: 400px;"> -->
-Coming soon...
+<img src="./assets/images/polyu.svg" style="width: 400px;margin-right:15px;">
+<img src="./assets/images/polyu-comp-logo.png" style="height: 77.99px;margin-right:15px;">
+<img src="./assets/images/springer-logo.svg" style="height: 77.99px;">

@@ -46,6 +46,7 @@
 - Xujin Chen, *AMSS, Chinese Academy of Sciences, Beijing, China*
 - Bo Li, *The Hong Kong Polytechnic University, Hong Kong, China*
 
-### Web & Social Media Chairs
+### Local Organization Chairs
+- Ankang Sun, *The Hong Kong Polytechnic University, Hong Kong, China*
 - Mingqi Yuan, *The Hong Kong Polytechnic University, Hong Kong, China*
 - Yu Zhou, *The Hong Kong Polytechnic University, Hong Kong, China*

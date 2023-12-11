@@ -29,6 +29,7 @@
 - Shikha Singh, *Williams College, USA*
 - Warut Suksompong, *National University of Singapore, Singapore*
 - Xiaoming Sun, *Chinese Academy of Sciences, China*
+- Akira Suzuki, *Tohoku University, Japan*
 - Seeun William Umboh, *The University of Melbourne, Australia*
 - Rohit Vaish, *Indian Institute of Technology (IIT) Delhi, India*
 - Chee Yap, *New York University, USA*

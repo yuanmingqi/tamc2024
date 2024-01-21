@@ -16,6 +16,7 @@
 - Bhaskar DasGupta, *University of Illinois at Chicago, USA*
 - Qilong Feng, *Central South University, China*
 - Henning Fernau, *Trier University, Germany*
+- Ling Gai, *University of Shanghai for Science and Technology, China*
 - Nan Guan, *City University of Hong Kong, China*
 - Jesper Jansson, *Kyoto University, Japan*
 - Jan Kratochvil, *Charles University, Czech Republic*

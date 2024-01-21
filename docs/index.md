@@ -33,5 +33,5 @@ We look forward to welcoming you to Hong Kong in May 2024!
 
 # **Sponsor**
 <img src="./assets/images/polyu.svg" style="width: 400px;margin-right:25px;">
-<img src="./assets/images/polyu-comp-logo.png" style="height: 77.99px;margin-right:65px;">
+<img src="./assets/images/comp50.png" style="height: 77.99px;margin-right:65px;">
 <img src="./assets/images/springer-logo.svg" style="height: 77.99px;">

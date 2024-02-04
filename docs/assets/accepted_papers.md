@@ -1,5 +1,3 @@
-# **Accepted Papers**
-
 - **On learning families of ideals in lattices and Boolean algebras**
 
 	 *Nikolay Bazhenov and Manat Mustafa* 
@@ -92,7 +90,7 @@
 
 	 *Robert Barish and Tetsuo Shibuya* 
 
-- **Some Combinatorial Algorithms on the Edge Cover Number of $k$-Regular Connected Hypergraphs**
+- **Some Combinatorial Algorithms on the Edge Cover Number of k-Regular Connected Hypergraphs**
 
 	 *Zhongzheng Tang, Yaxuan Li and Zhuo Diao* 
 
@@ -100,7 +98,7 @@
 
 	 *Kamil Khadiev and Maxim Yagafarov* 
 
-- **Improved Approximation Algorithm for the Distributed Lower-bounded $k$-center Problem**
+- **Improved Approximation Algorithm for the Distributed Lower-bounded k-center Problem**
 
 	 *Ting Liang, Qilong Feng, Xiaoliang Wu, Jinhui Xu and Jianxin Wang* 
 

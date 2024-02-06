@@ -33,3 +33,6 @@ Submission link: [EasyChair](https://easychair.org/conferences/?conf=tamc2024)
 
 ## **Publication**
 The proceedings of the conference will be published by **Springer-Verlag** in the **Lecture Notes in Computer Science (LNCS) series**, and will be available for distribution at the conference. Selected high quality papers will be invited for submission to **Information and Computation, Theoretical Computer Science, Theory of Computing Systems, and Acta Informatica**, with the submission deadline being shortly after the conference. Submissions will undergo a standard peer review process according to the usual editorial standards of the journal.
+
+## **Copyright**
+All the authors with accepted papers must sign and submit the <a href="../docs/assets/SNCS_ProceedingsPaper_LTP_ST_SN_Singapore.docx" download="license-to-publish form.docx">license-to-publish form</a>.

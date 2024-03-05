@@ -57,4 +57,4 @@ Please check the hotel websites for details and make a reservation directly with
 
 - Caritas Bianchi Lodge, 4 Cliff Rd, Yau Ma Tei, Hong Kong
 
-Please check the hotel websites for details and make a reservation directly with the hotel。
+Please check the hotel websites for details and make a reservation directly with the hotel.

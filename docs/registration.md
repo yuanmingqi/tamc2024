@@ -17,7 +17,7 @@ Student registration is available only for full-time students. If you register a
 
 ## Attending
 ### Location
-Find the conference site via:
+Find the conference site at Lecture Theatres - N001, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong.
 
 <img src="../assets/images/attending1.png" style="">
 <img src="../assets/images/attending2.png" style="">
@@ -34,10 +34,24 @@ Take Urban red taxis to go to PolyU and drop off at the main entrance at Wan Roa
 
 # Accommodation
 
-There is **no designated hotel** for the conference, please choose a nearby hotel for accommodation. Here are some suggestions for hotels:
+## Exclusive Offer
 
+- Hotel lcon, Hung Hom, Hong Kong
+
+View the "Exclusive Offer for The Hong Kong Polytechnic University" by using the code "POLYUSA" from the official site. Please check the hotel websites for details and make a reservation directly with the hotel.
+
+## Other Options Near the Conference Venue
+Please check the hotel websites for details and make a reservation directly with the hotel
+
+- Best Western Plus Hotel Kowloon, 73-75 Chatham Rd S, Tsim Sha Tsui, Hong Kong
+- Regal Kowloon Hotel, 71 Mody Rd, Tsim Sha Tsui East, Hong Kong
 - Harbour Plaza Metropolis, 7 Metropolis Dr, Hung Hom, Hong Kong
 - Empire Hotel Kowloon, 62 Kimberley Rd, Tsim Sha Tsui, Hong Kong
 - The Bauhinia Hotel, 9 Observatory Ct, Tsim Sha Tsui, Hong Kong
 - Popway Hotel, 117 Chatham Rd S, Tsim Sha Tsui, Hong Kong
 - The Emperor Hotel, 373 Queen's Road East, Wanchai, Hong Kong
+
+## Other Options for Budget Travelers
+Please check the hotel websites for details and make a reservation directly with the hotel
+
+- Caritas Bianchi Lodge, 4 Cliff Rd, Yau Ma Tei, Hong Kong

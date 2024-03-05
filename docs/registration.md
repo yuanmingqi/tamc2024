@@ -41,7 +41,7 @@ Take Urban red taxis to go to PolyU and drop off at the main entrance at Wan Roa
 View the "Exclusive Offer for The Hong Kong Polytechnic University" by using the code "POLYUSA" from the official site. Please check the hotel websites for details and make a reservation directly with the hotel.
 
 ### Other Options Near the Conference Venue
-Please check the hotel websites for details and make a reservation directly with the hotel
+
 
 - Best Western Plus Hotel Kowloon, 73-75 Chatham Rd S, Tsim Sha Tsui, Hong Kong
 - Regal Kowloon Hotel, 71 Mody Rd, Tsim Sha Tsui East, Hong Kong
@@ -51,7 +51,10 @@ Please check the hotel websites for details and make a reservation directly with
 - Popway Hotel, 117 Chatham Rd S, Tsim Sha Tsui, Hong Kong
 - The Emperor Hotel, 373 Queen's Road East, Wanchai, Hong Kong
 
+Please check the hotel websites for details and make a reservation directly with the hotel.
+
 ### Other Options for Budget Travelers
-Please check the hotel websites for details and make a reservation directly with the hotel
 
 - Caritas Bianchi Lodge, 4 Cliff Rd, Yau Ma Tei, Hong Kong
+- 
+Please check the hotel websites for details and make a reservation directly with the hotel。

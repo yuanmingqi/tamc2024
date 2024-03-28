@@ -17,7 +17,7 @@ Bios and abstracts are coming soon! -->
 <!-- ![Image title](/assets/images/sun_xiao_ming.jpg){ align=center } **Xiaoming Sun** -->
 
 <figure markdown="span">
-  ![Image title](/assets/images/sun_xiao_ming.jpg){ width="300" }
+  ![Image title](./assets/images/sun_xiao_ming.jpg){ width="300" }
   <!-- <figcaption>Xiaoming Sun, Chinese Academy of Sciences, China</figcaption> -->
 </figure>
 
@@ -28,7 +28,7 @@ Quantum circuits, which serve as a general mathematical model for describing qua
 
 
 <figure markdown="span">
-  ![Image title](/assets/images/teng.jpg){ width="300" }
+  ![Image title](./assets/images/teng.jpg){ width="300" }
   <!-- <figcaption>Xiaoming Sun, Chinese Academy of Sciences, China</figcaption> -->
 </figure>
 
@@ -42,7 +42,7 @@ We demonstrate that the difficulty of supervised learning with metric losses adm
 Joint work with Julian Asilis, Siddartha Devic, Shaddin Dughmi, and Vatsal Sharan
 
 <figure markdown="span">
-  ![Image title](/assets/images/thai.png){ width="300" }
+  ![Image title](./assets/images/thai.png){ width="300" }
   <!-- <figcaption>Xiaoming Sun, Chinese Academy of Sciences, China</figcaption> -->
 </figure>
 ### Title: Lightweight Algorithms to Learning Solutions for Large-scale Maximization

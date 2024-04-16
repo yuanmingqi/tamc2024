@@ -122,7 +122,7 @@
 
 # **Conference Program**
 <iframe
-  src="../docs/assets/program.pdf"
+  src="../assets/program.pdf"
   width="100%"
   height="800px"
 ></iframe>

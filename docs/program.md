@@ -1,5 +1,3 @@
-# **Accepted Papers**
-
 - **On learning families of ideals in lattices and Boolean algebras**
 
 	 *Nikolay Bazhenov and Manat Mustafa* 
